@@ -104,4 +104,4 @@ The circuit’s complexity grows with the number of qubits:
 This project demonstrates the potential of quantum algorithms for solving differential equations. While challenges like circuit complexity persist, the promising results indicate significant opportunities for broader quantum simulations.
 
 ---
-link to the video presentation: 
+link to the video presentation: https://cdn.discordapp.com/attachments/1292513060321362062/1308126781231992842/Qpoland.mp4?ex=673ccf80&is=673b7e00&hm=d23a680274a764877d42d25f3e1e60729496b08f4aae17d4c744cd3a19a6f4f8&
