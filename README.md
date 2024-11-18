@@ -1,0 +1,1 @@
+# Qpoland_classiq_challenge
